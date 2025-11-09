@@ -20,7 +20,8 @@ Voor de leden met status Gold, Silver of Bronze bezorgen we naast de tickets ook
 die ze kunnen dragen tijdens het event.
 
 De leden met status Bronze betalen voor een bestelling 100 euro extra aan de organisatie. Leden met 
-status Silver daarentegen sponsoren de organisatie door telkens het dubbele van de prijs te betalen.  
+status Silver daarentegen sponsoren de organisatie door telkens het dubbele van de prijs te betalen.
+
 Als belonging worden ze wel uitgenodigd voor het voorafgaande diner. De Gold-leden betalen 3 maal 
 de prijs van een ticket, maar worden eveneens uitgenodigd voor het diner en kunnen bovendien ook 
 nog rekenen op een afhaalservice die de leden naar het event brengen. 
