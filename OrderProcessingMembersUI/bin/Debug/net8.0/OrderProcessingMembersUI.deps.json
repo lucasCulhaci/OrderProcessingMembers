@@ -1,0 +1,73 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OrderProcessingMembersUI/1.0.0": {
+        "dependencies": {
+          "OrderProcessingMembersBL": "1.0.0",
+          "OrderProcessingMembersUtils": "1.0.0"
+        },
+        "runtime": {
+          "OrderProcessingMembersUI.dll": {}
+        }
+      },
+      "OrderProcessingMemberDL_File/1.0.0": {
+        "dependencies": {
+          "OrderProcessingMembersBL": "1.0.0"
+        },
+        "runtime": {
+          "OrderProcessingMemberDL_File.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "OrderProcessingMembersBL/1.0.0": {
+        "runtime": {
+          "OrderProcessingMembersBL.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "OrderProcessingMembersUtils/1.0.0": {
+        "dependencies": {
+          "OrderProcessingMemberDL_File": "1.0.0",
+          "OrderProcessingMembersBL": "1.0.0"
+        },
+        "runtime": {
+          "OrderProcessingMembersUtils.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OrderProcessingMembersUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OrderProcessingMemberDL_File/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OrderProcessingMembersBL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OrderProcessingMembersUtils/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

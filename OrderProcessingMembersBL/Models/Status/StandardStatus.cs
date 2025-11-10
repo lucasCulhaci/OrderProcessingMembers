@@ -7,9 +7,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OrderProcessingMembersBL.Models
+namespace OrderProcessingMembersBL.Models.Status
 {
-    public class StandardStatus : ILevering, IPrijs
+    // IStatus is used to group every type of status, the Interface itself doesn't contain any logic
+    public class StandardStatus : IStatus, ILevering, IPrijs
     {
         public decimal BerekenKost(decimal kost)
         {

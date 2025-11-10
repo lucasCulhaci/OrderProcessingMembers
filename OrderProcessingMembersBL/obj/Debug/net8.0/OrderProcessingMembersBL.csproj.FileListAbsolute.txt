@@ -1,0 +1,12 @@
+C:\Users\linx\Documents\GITHUB\FirstSegment\order-processing-members\OrderProcessingMembersBL\bin\Debug\net8.0\OrderProcessingMembersBL.deps.json
+C:\Users\linx\Documents\GITHUB\FirstSegment\order-processing-members\OrderProcessingMembersBL\bin\Debug\net8.0\OrderProcessingMembersBL.dll
+C:\Users\linx\Documents\GITHUB\FirstSegment\order-processing-members\OrderProcessingMembersBL\bin\Debug\net8.0\OrderProcessingMembersBL.pdb
+C:\Users\linx\Documents\GITHUB\FirstSegment\order-processing-members\OrderProcessingMembersBL\obj\Debug\net8.0\OrderProcessingMembersBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linx\Documents\GITHUB\FirstSegment\order-processing-members\OrderProcessingMembersBL\obj\Debug\net8.0\OrderProcessingMembersBL.AssemblyInfoInputs.cache
+C:\Users\linx\Documents\GITHUB\FirstSegment\order-processing-members\OrderProcessingMembersBL\obj\Debug\net8.0\OrderProcessingMembersBL.AssemblyInfo.cs
+C:\Users\linx\Documents\GITHUB\FirstSegment\order-processing-members\OrderProcessingMembersBL\obj\Debug\net8.0\OrderProcessingMembersBL.csproj.CoreCompileInputs.cache
+C:\Users\linx\Documents\GITHUB\FirstSegment\order-processing-members\OrderProcessingMembersBL\obj\Debug\net8.0\OrderProcessingMembersBL.sourcelink.json
+C:\Users\linx\Documents\GITHUB\FirstSegment\order-processing-members\OrderProcessingMembersBL\obj\Debug\net8.0\OrderProcessingMembersBL.dll
+C:\Users\linx\Documents\GITHUB\FirstSegment\order-processing-members\OrderProcessingMembersBL\obj\Debug\net8.0\refint\OrderProcessingMembersBL.dll
+C:\Users\linx\Documents\GITHUB\FirstSegment\order-processing-members\OrderProcessingMembersBL\obj\Debug\net8.0\OrderProcessingMembersBL.pdb
+C:\Users\linx\Documents\GITHUB\FirstSegment\order-processing-members\OrderProcessingMembersBL\obj\Debug\net8.0\ref\OrderProcessingMembersBL.dll

@@ -1,0 +1,16 @@
+C:\Users\linx\Documents\GITHUB\FirstSegment\order-processing-members\OrderProcessingMemberDL_File\obj\Debug\net8.0\OrderProcessingMemberDL_File.csproj.AssemblyReference.cache
+C:\Users\linx\Documents\GITHUB\FirstSegment\order-processing-members\OrderProcessingMemberDL_File\obj\Debug\net8.0\OrderProcessingMemberDL_File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linx\Documents\GITHUB\FirstSegment\order-processing-members\OrderProcessingMemberDL_File\obj\Debug\net8.0\OrderProcessingMemberDL_File.AssemblyInfoInputs.cache
+C:\Users\linx\Documents\GITHUB\FirstSegment\order-processing-members\OrderProcessingMemberDL_File\obj\Debug\net8.0\OrderProcessingMemberDL_File.AssemblyInfo.cs
+C:\Users\linx\Documents\GITHUB\FirstSegment\order-processing-members\OrderProcessingMemberDL_File\obj\Debug\net8.0\OrderProcessingMemberDL_File.csproj.CoreCompileInputs.cache
+C:\Users\linx\Documents\GITHUB\FirstSegment\order-processing-members\OrderProcessingMemberDL_File\obj\Debug\net8.0\OrderProcessingMemberDL_File.sourcelink.json
+C:\Users\linx\Documents\GITHUB\FirstSegment\order-processing-members\OrderProcessingMemberDL_File\bin\Debug\net8.0\OrderProcessingMemberDL_File.deps.json
+C:\Users\linx\Documents\GITHUB\FirstSegment\order-processing-members\OrderProcessingMemberDL_File\bin\Debug\net8.0\OrderProcessingMemberDL_File.dll
+C:\Users\linx\Documents\GITHUB\FirstSegment\order-processing-members\OrderProcessingMemberDL_File\bin\Debug\net8.0\OrderProcessingMemberDL_File.pdb
+C:\Users\linx\Documents\GITHUB\FirstSegment\order-processing-members\OrderProcessingMemberDL_File\bin\Debug\net8.0\OrderProcessingMembersBL.dll
+C:\Users\linx\Documents\GITHUB\FirstSegment\order-processing-members\OrderProcessingMemberDL_File\bin\Debug\net8.0\OrderProcessingMembersBL.pdb
+C:\Users\linx\Documents\GITHUB\FirstSegment\order-processing-members\OrderProcessingMemberDL_File\obj\Debug\net8.0\OrderPro.956C910C.Up2Date
+C:\Users\linx\Documents\GITHUB\FirstSegment\order-processing-members\OrderProcessingMemberDL_File\obj\Debug\net8.0\OrderProcessingMemberDL_File.dll
+C:\Users\linx\Documents\GITHUB\FirstSegment\order-processing-members\OrderProcessingMemberDL_File\obj\Debug\net8.0\refint\OrderProcessingMemberDL_File.dll
+C:\Users\linx\Documents\GITHUB\FirstSegment\order-processing-members\OrderProcessingMemberDL_File\obj\Debug\net8.0\OrderProcessingMemberDL_File.pdb
+C:\Users\linx\Documents\GITHUB\FirstSegment\order-processing-members\OrderProcessingMemberDL_File\obj\Debug\net8.0\ref\OrderProcessingMemberDL_File.dll

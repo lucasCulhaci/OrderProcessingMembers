@@ -1,11 +1,49 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "OrderProcessingMemberDL_File/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "OrderProcessingMembersBL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/OrderProcessingMemberDL_File.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OrderProcessingMemberDL_File.dll": {}
+        }
+      },
+      "OrderProcessingMembersBL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/OrderProcessingMembersBL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OrderProcessingMembersBL.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "OrderProcessingMemberDL_File/1.0.0": {
+      "type": "project",
+      "path": "../OrderProcessingMemberDL_File/OrderProcessingMemberDL_File.csproj",
+      "msbuildProject": "../OrderProcessingMemberDL_File/OrderProcessingMemberDL_File.csproj"
+    },
+    "OrderProcessingMembersBL/1.0.0": {
+      "type": "project",
+      "path": "../OrderProcessingMembersBL/OrderProcessingMembersBL.csproj",
+      "msbuildProject": "../OrderProcessingMembersBL/OrderProcessingMembersBL.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "OrderProcessingMemberDL_File >= 1.0.0",
+      "OrderProcessingMembersBL >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\linx\\.nuget\\packages\\": {},
@@ -38,7 +76,14 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\linx\\Documents\\GITHUB\\FirstSegment\\order-processing-members\\OrderProcessingMemberDL_File\\OrderProcessingMemberDL_File.csproj": {
+              "projectPath": "C:\\Users\\linx\\Documents\\GITHUB\\FirstSegment\\order-processing-members\\OrderProcessingMemberDL_File\\OrderProcessingMemberDL_File.csproj"
+            },
+            "C:\\Users\\linx\\Documents\\GITHUB\\FirstSegment\\order-processing-members\\OrderProcessingMembersBL\\OrderProcessingMembersBL.csproj": {
+              "projectPath": "C:\\Users\\linx\\Documents\\GITHUB\\FirstSegment\\order-processing-members\\OrderProcessingMembersBL\\OrderProcessingMembersBL.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

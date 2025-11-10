@@ -4,9 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BL.Models
+namespace OrderProcessingMembersBL.Models
 {
-    internal class Adres
+    public class Adres(string Land, string Provincie, string Gemeente, string Straat, string Huisnummer)
     {
+
+        public override string ToString()
+        {
+            return $"{Straat} {Huisnummer}, {Gemeente}, {Provincie}, {Land}";
+        }
     }
+
 }

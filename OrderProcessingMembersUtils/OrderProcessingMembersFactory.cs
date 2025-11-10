@@ -1,12 +1,20 @@
-﻿using System;
+﻿using OrderProcessingMemberDL_File;
+using OrderProcessingMembersBL.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace UTILS
+namespace OrderProcessingMembersUtils
 {
-    public class Factory
+    public static class OrderProcessingMembersFactory
     {
+
+        public static ILidRepositoryMemory GetLidRepositoryMemory() 
+        {
+            return new LidRepositoryMemory();
+        }
+
     }
 }

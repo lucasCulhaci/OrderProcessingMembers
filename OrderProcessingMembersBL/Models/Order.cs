@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BL.Models
+namespace OrderProcessingMembersBL.Models
 {
     public class Order
     {

@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\OrderProcessingMemberDL_File\OrderProcessingMemberDL_File.csproj" />
+    <ProjectReference Include="..\OrderProcessingMembersBL\OrderProcessingMembersBL.csproj" />
+  </ItemGroup>
+
 </Project>

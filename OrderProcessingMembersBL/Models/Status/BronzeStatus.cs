@@ -7,9 +7,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OrderProcessingMembersBL.Models
+namespace OrderProcessingMembersBL.Models.Status
 {
-    public class BronzeStatus : ILevering, IPrijs, INaamplaat, IAvondmaal
+    // IStatus is used to group every type of status, the Interface itself doesn't contain any logic
+    public class BronzeStatus : IStatus, ILevering, IPrijs, INaamplaat, IAvondmaal
     {
 
         public Levering TypeLevering()

@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BL.Models
+namespace OrderProcessingMembersBL.Models
 {
-    internal class Event
+    public class Event(int ID, string Naam, string Email, Adres Adres, decimal Kostprijs)
     {
     }
 }
