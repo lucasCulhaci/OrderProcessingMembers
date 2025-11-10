@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\linx\\Documents\\GITHUB\\FirstSegment\\OrderProcessingMembers\\OrderProcessingMembersUI\\OrderProcessingMembersUI.csproj",
+      "projectUniqueName": "C:\\Users\\linx\\Documents\\GITHUB\\FirstSegment\\order-processing-members\\OrderProcessingMembersUI\\OrderProcessingMembersUI.csproj",
       "projectName": "OrderProcessingMembersUI",
-      "projectPath": "C:\\Users\\linx\\Documents\\GITHUB\\FirstSegment\\OrderProcessingMembers\\OrderProcessingMembersUI\\OrderProcessingMembersUI.csproj",
+      "projectPath": "C:\\Users\\linx\\Documents\\GITHUB\\FirstSegment\\order-processing-members\\OrderProcessingMembersUI\\OrderProcessingMembersUI.csproj",
       "packagesPath": "C:\\Users\\linx\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\linx\\Documents\\GITHUB\\FirstSegment\\OrderProcessingMembers\\OrderProcessingMembersUI\\obj\\",
+      "outputPath": "C:\\Users\\linx\\Documents\\GITHUB\\FirstSegment\\order-processing-members\\OrderProcessingMembersUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "S:\\SOFTWARE\\Visual Studio\\Shared\\NuGetPackages"

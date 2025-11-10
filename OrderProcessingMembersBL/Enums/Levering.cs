@@ -4,9 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BL.Models
+namespace OrderProcessingMembersBL.Enums
 {
-    public class Order
+    public enum Levering
     {
+        Standard,
+        Express
     }
 }

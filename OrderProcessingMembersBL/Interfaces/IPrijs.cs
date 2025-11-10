@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BL.Interfaces
+namespace OrderProcessingMembersBL.Interfaces
 {
     public interface IPrijs
     {
+        decimal BerekenKost(decimal kost);
     }
 }

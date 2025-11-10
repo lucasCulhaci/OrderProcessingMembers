@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BL.Models
+namespace OrderProcessingMembersBL.Interfaces
 {
-    public class Order
+    public interface IKostBestelling
     {
     }
 }
