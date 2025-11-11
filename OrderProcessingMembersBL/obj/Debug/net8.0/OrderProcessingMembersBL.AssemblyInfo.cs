@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OrderProcessingMembersBL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fff58d0c5b940048dd8a18367e4a0e1cc08e46d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f927dc27aa3441ab03bde2fda4498138fa6e505")]
 [assembly: System.Reflection.AssemblyProductAttribute("OrderProcessingMembersBL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OrderProcessingMembersBL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

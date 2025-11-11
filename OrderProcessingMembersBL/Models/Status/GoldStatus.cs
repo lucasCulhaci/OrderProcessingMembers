@@ -11,15 +11,14 @@ namespace OrderProcessingMembersBL.Models.Status
 {
 
     // IStatus is used to group every type of status, the Interface itself doesn't contain any logic
-    public class GoldStatus : IStatus, ILevering,  IPrijs, IWelkomstpakket, INaamplaat, IAvondmaal, IAfhaalservice
+    public class GoldStatus: StandardStatus, IWelkomstpakket, INaamplaat, IAvondmaal, IAfhaalservice
     {
-
-        public Levering TypeLevering()
+        public override Levering TypeLevering()
         {
             return Levering.Express;
         }
 
-        public decimal BerekenKost(decimal kost)
+        public override decimal BerekenKost(decimal kost)
         {
             return kost * 3;
         }

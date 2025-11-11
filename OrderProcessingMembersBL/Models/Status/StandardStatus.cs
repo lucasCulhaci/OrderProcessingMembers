@@ -10,14 +10,14 @@ using System.Threading.Tasks;
 namespace OrderProcessingMembersBL.Models.Status
 {
     // IStatus is used to group every type of status, the Interface itself doesn't contain any logic
-    public class StandardStatus : IStatus, ILevering, IPrijs
+    public class StandardStatus
     {
-        public decimal BerekenKost(decimal kost)
+        public virtual decimal BerekenKost(decimal kost)
         {
             return kost;
         }
 
-        public Levering TypeLevering()
+        public virtual Levering TypeLevering()
         {
             return Levering.Standard;
         }

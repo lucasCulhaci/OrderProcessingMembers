@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OrderProcessingMembersBL.Models
 {
-    public class Order
+    public class Order(int ID, string Naam, string Email, Adres Adres, decimal Kostprijs)
     {
     }
 }

@@ -16,6 +16,8 @@ namespace OrderProcessingMembersBL.Manager
             _repo = repo;
         }
 
+        // TODO |!| Group an order with a member
+
         public List<Lid> GeefLeden()
         {
             return _repo.GeefLeden();
