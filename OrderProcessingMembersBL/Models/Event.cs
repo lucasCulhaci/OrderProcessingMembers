@@ -6,7 +6,21 @@ using System.Threading.Tasks;
 
 namespace OrderProcessingMembersBL.Models
 {
-    public class Event(int ID, string Naam, string Email, Adres Adres, decimal Kostprijs)
+    public class Event
     {
+
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public DateTime Date { get; set; }
+        public Double TicketPriceEur { get; set; }
+
+        public Event(int id, string name, DateTime date, double ticketPriceEur)
+        {
+            Id = id;
+            Name = name;
+            Date = date;
+            TicketPriceEur = ticketPriceEur;
+        }
+
     }
 }

@@ -10,3 +10,15 @@ C:\Users\linx\Documents\GITHUB\FirstSegment\order-processing-members\OrderProces
 C:\Users\linx\Documents\GITHUB\FirstSegment\order-processing-members\OrderProcessingMembersBL\obj\Debug\net8.0\refint\OrderProcessingMembersBL.dll
 C:\Users\linx\Documents\GITHUB\FirstSegment\order-processing-members\OrderProcessingMembersBL\obj\Debug\net8.0\OrderProcessingMembersBL.pdb
 C:\Users\linx\Documents\GITHUB\FirstSegment\order-processing-members\OrderProcessingMembersBL\obj\Debug\net8.0\ref\OrderProcessingMembersBL.dll
+D:\HoGent\C#\Gevorderd\source\Groep\order-processing-members\OrderProcessingMembersBL\bin\Debug\net8.0\OrderProcessingMembersBL.deps.json
+D:\HoGent\C#\Gevorderd\source\Groep\order-processing-members\OrderProcessingMembersBL\bin\Debug\net8.0\OrderProcessingMembersBL.dll
+D:\HoGent\C#\Gevorderd\source\Groep\order-processing-members\OrderProcessingMembersBL\bin\Debug\net8.0\OrderProcessingMembersBL.pdb
+D:\HoGent\C#\Gevorderd\source\Groep\order-processing-members\OrderProcessingMembersBL\obj\Debug\net8.0\OrderProcessingMembersBL.GeneratedMSBuildEditorConfig.editorconfig
+D:\HoGent\C#\Gevorderd\source\Groep\order-processing-members\OrderProcessingMembersBL\obj\Debug\net8.0\OrderProcessingMembersBL.AssemblyInfoInputs.cache
+D:\HoGent\C#\Gevorderd\source\Groep\order-processing-members\OrderProcessingMembersBL\obj\Debug\net8.0\OrderProcessingMembersBL.AssemblyInfo.cs
+D:\HoGent\C#\Gevorderd\source\Groep\order-processing-members\OrderProcessingMembersBL\obj\Debug\net8.0\OrderProcessingMembersBL.csproj.CoreCompileInputs.cache
+D:\HoGent\C#\Gevorderd\source\Groep\order-processing-members\OrderProcessingMembersBL\obj\Debug\net8.0\OrderProcessingMembersBL.sourcelink.json
+D:\HoGent\C#\Gevorderd\source\Groep\order-processing-members\OrderProcessingMembersBL\obj\Debug\net8.0\OrderProcessingMembersBL.dll
+D:\HoGent\C#\Gevorderd\source\Groep\order-processing-members\OrderProcessingMembersBL\obj\Debug\net8.0\refint\OrderProcessingMembersBL.dll
+D:\HoGent\C#\Gevorderd\source\Groep\order-processing-members\OrderProcessingMembersBL\obj\Debug\net8.0\OrderProcessingMembersBL.pdb
+D:\HoGent\C#\Gevorderd\source\Groep\order-processing-members\OrderProcessingMembersBL\obj\Debug\net8.0\ref\OrderProcessingMembersBL.dll

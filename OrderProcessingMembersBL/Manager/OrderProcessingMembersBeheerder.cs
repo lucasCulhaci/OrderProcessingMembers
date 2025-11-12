@@ -16,7 +16,7 @@ namespace OrderProcessingMembersBL.Manager
             _repo = repo;
         }
 
-        public List<Lid> GeefLeden()
+        public List<Member> GeefLeden()
         {
             return _repo.GeefLeden();
         }
