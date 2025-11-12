@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OrderProcessingMembersBL.Interfaces
 {
-    public interface IAfhaalservice
+    public interface ITaxi
     {
         string Afhaalservice();
     }

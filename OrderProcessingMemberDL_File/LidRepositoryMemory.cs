@@ -4,7 +4,7 @@ using OrderProcessingMembersBL.Models.Status;
 
 namespace OrderProcessingMemberDL_File
 {
-    public class LidRepositoryMemory : ILidRepositoryMemory
+    public class LidRepositoryMemory : IOrderManagerRepository
     {
 
         private Dictionary<int, Lid> leden;
@@ -18,16 +18,16 @@ namespace OrderProcessingMemberDL_File
             // This is mock data, only used to simulate the application
             var adres = new Adres("x", "x", "x", "x", "x");
 
-            leden.Add(lidID, new Lid(lidID, "Gebruiker1", "mail1@outlook.com", adres, new StandardStatus()));
+            leden.Add(lidID, new Lid(lidID, "Gebruiker1", "mail1@outlook.com", adres, new StandardOrder()));
             lidID++;
 
-            leden.Add(lidID, new Lid(lidID, "Gebruiker2", "mail2@outlook.com", adres, new BronzeStatus()));
+            leden.Add(lidID, new Lid(lidID, "Gebruiker2", "mail2@outlook.com", adres, new BronzeOrder()));
             lidID++;
 
-            leden.Add(lidID, new Lid(lidID, "Gebruiker3", "mail3@outlook.com", adres, new SilverStatus()));
+            leden.Add(lidID, new Lid(lidID, "Gebruiker3", "mail3@outlook.com", adres, new SilverOrder()));
             lidID++;
 
-            leden.Add(lidID, new Lid(lidID, "Gebruiker4", "mail4@outlook.com", adres, new GoldStatus()));
+            leden.Add(lidID, new Lid(lidID, "Gebruiker4", "mail4@outlook.com", adres, new GoldOrder()));
             lidID++;
         }
 

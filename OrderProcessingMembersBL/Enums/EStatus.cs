@@ -4,10 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OrderProcessingMembersBL.Interfaces
+namespace OrderProcessingMembersBL.Enums
 {
-    public interface IWelkomstpakket
+    public enum EStatus
     {
-        string Welkomstpakket();
+        Gold,
+        Silver,
+        Bronze,
+        Standard
+
     }
 }

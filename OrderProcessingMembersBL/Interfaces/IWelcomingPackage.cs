@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace OrderProcessingMembersBL.Interfaces
 {
-    public interface IAvondmaal
+    public interface IWelcomingPackage
     {
-        string Avondmaal();
+        string Welkomstpakket();
     }
 }

@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace OrderProcessingMembersBL.Models
 {
-    public class Lid(int ID, string Naam, string Email, Adres Adres, StandardStatus Status)
+    public class Lid(int ID, string Naam, string Email, Adres Adres, StandardOrder Status)
     {
 
 

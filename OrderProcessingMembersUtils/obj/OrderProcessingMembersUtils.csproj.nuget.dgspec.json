@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\linx\\Documents\\GITHUB\\FirstSegment\\order-processing-members\\OrderProcessingMembersUtils\\OrderProcessingMembersUtils.csproj": {}
+    "C:\\Users\\Kelly\\OPDRACHTEN_progGev\\order-processing-members\\OrderProcessingMembersUtils\\OrderProcessingMembersUtils.csproj": {}
   },
   "projects": {
-    "C:\\Users\\linx\\Documents\\GITHUB\\FirstSegment\\order-processing-members\\OrderProcessingMemberDL_File\\OrderProcessingMemberDL_File.csproj": {
+    "C:\\Users\\Kelly\\OPDRACHTEN_progGev\\order-processing-members\\OrderProcessingMemberDL_File\\OrderProcessingMemberDL_File.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\linx\\Documents\\GITHUB\\FirstSegment\\order-processing-members\\OrderProcessingMemberDL_File\\OrderProcessingMemberDL_File.csproj",
+        "projectUniqueName": "C:\\Users\\Kelly\\OPDRACHTEN_progGev\\order-processing-members\\OrderProcessingMemberDL_File\\OrderProcessingMemberDL_File.csproj",
         "projectName": "OrderProcessingMemberDL_File",
-        "projectPath": "C:\\Users\\linx\\Documents\\GITHUB\\FirstSegment\\order-processing-members\\OrderProcessingMemberDL_File\\OrderProcessingMemberDL_File.csproj",
-        "packagesPath": "C:\\Users\\linx\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\linx\\Documents\\GITHUB\\FirstSegment\\order-processing-members\\OrderProcessingMemberDL_File\\obj\\",
+        "projectPath": "C:\\Users\\Kelly\\OPDRACHTEN_progGev\\order-processing-members\\OrderProcessingMemberDL_File\\OrderProcessingMemberDL_File.csproj",
+        "packagesPath": "C:\\Users\\Kelly\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kelly\\OPDRACHTEN_progGev\\order-processing-members\\OrderProcessingMemberDL_File\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "S:\\SOFTWARE\\Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\linx\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Kelly\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\linx\\Documents\\GITHUB\\FirstSegment\\order-processing-members\\OrderProcessingMembersBL\\OrderProcessingMembersBL.csproj": {
-                "projectPath": "C:\\Users\\linx\\Documents\\GITHUB\\FirstSegment\\order-processing-members\\OrderProcessingMembersBL\\OrderProcessingMembersBL.csproj"
+              "C:\\Users\\Kelly\\OPDRACHTEN_progGev\\order-processing-members\\OrderProcessingMembersBL\\OrderProcessingMembersBL.csproj": {
+                "projectPath": "C:\\Users\\Kelly\\OPDRACHTEN_progGev\\order-processing-members\\OrderProcessingMembersBL\\OrderProcessingMembersBL.csproj"
               }
             }
           }
@@ -73,20 +73,20 @@
         }
       }
     },
-    "C:\\Users\\linx\\Documents\\GITHUB\\FirstSegment\\order-processing-members\\OrderProcessingMembersBL\\OrderProcessingMembersBL.csproj": {
+    "C:\\Users\\Kelly\\OPDRACHTEN_progGev\\order-processing-members\\OrderProcessingMembersBL\\OrderProcessingMembersBL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\linx\\Documents\\GITHUB\\FirstSegment\\order-processing-members\\OrderProcessingMembersBL\\OrderProcessingMembersBL.csproj",
+        "projectUniqueName": "C:\\Users\\Kelly\\OPDRACHTEN_progGev\\order-processing-members\\OrderProcessingMembersBL\\OrderProcessingMembersBL.csproj",
         "projectName": "OrderProcessingMembersBL",
-        "projectPath": "C:\\Users\\linx\\Documents\\GITHUB\\FirstSegment\\order-processing-members\\OrderProcessingMembersBL\\OrderProcessingMembersBL.csproj",
-        "packagesPath": "C:\\Users\\linx\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\linx\\Documents\\GITHUB\\FirstSegment\\order-processing-members\\OrderProcessingMembersBL\\obj\\",
+        "projectPath": "C:\\Users\\Kelly\\OPDRACHTEN_progGev\\order-processing-members\\OrderProcessingMembersBL\\OrderProcessingMembersBL.csproj",
+        "packagesPath": "C:\\Users\\Kelly\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kelly\\OPDRACHTEN_progGev\\order-processing-members\\OrderProcessingMembersBL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "S:\\SOFTWARE\\Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\linx\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Kelly\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -138,20 +138,20 @@
         }
       }
     },
-    "C:\\Users\\linx\\Documents\\GITHUB\\FirstSegment\\order-processing-members\\OrderProcessingMembersUtils\\OrderProcessingMembersUtils.csproj": {
+    "C:\\Users\\Kelly\\OPDRACHTEN_progGev\\order-processing-members\\OrderProcessingMembersUtils\\OrderProcessingMembersUtils.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\linx\\Documents\\GITHUB\\FirstSegment\\order-processing-members\\OrderProcessingMembersUtils\\OrderProcessingMembersUtils.csproj",
+        "projectUniqueName": "C:\\Users\\Kelly\\OPDRACHTEN_progGev\\order-processing-members\\OrderProcessingMembersUtils\\OrderProcessingMembersUtils.csproj",
         "projectName": "OrderProcessingMembersUtils",
-        "projectPath": "C:\\Users\\linx\\Documents\\GITHUB\\FirstSegment\\order-processing-members\\OrderProcessingMembersUtils\\OrderProcessingMembersUtils.csproj",
-        "packagesPath": "C:\\Users\\linx\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\linx\\Documents\\GITHUB\\FirstSegment\\order-processing-members\\OrderProcessingMembersUtils\\obj\\",
+        "projectPath": "C:\\Users\\Kelly\\OPDRACHTEN_progGev\\order-processing-members\\OrderProcessingMembersUtils\\OrderProcessingMembersUtils.csproj",
+        "packagesPath": "C:\\Users\\Kelly\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kelly\\OPDRACHTEN_progGev\\order-processing-members\\OrderProcessingMembersUtils\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "S:\\SOFTWARE\\Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\linx\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Kelly\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -166,11 +166,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\linx\\Documents\\GITHUB\\FirstSegment\\order-processing-members\\OrderProcessingMemberDL_File\\OrderProcessingMemberDL_File.csproj": {
-                "projectPath": "C:\\Users\\linx\\Documents\\GITHUB\\FirstSegment\\order-processing-members\\OrderProcessingMemberDL_File\\OrderProcessingMemberDL_File.csproj"
+              "C:\\Users\\Kelly\\OPDRACHTEN_progGev\\order-processing-members\\OrderProcessingMemberDL_File\\OrderProcessingMemberDL_File.csproj": {
+                "projectPath": "C:\\Users\\Kelly\\OPDRACHTEN_progGev\\order-processing-members\\OrderProcessingMemberDL_File\\OrderProcessingMemberDL_File.csproj"
               },
-              "C:\\Users\\linx\\Documents\\GITHUB\\FirstSegment\\order-processing-members\\OrderProcessingMembersBL\\OrderProcessingMembersBL.csproj": {
-                "projectPath": "C:\\Users\\linx\\Documents\\GITHUB\\FirstSegment\\order-processing-members\\OrderProcessingMembersBL\\OrderProcessingMembersBL.csproj"
+              "C:\\Users\\Kelly\\OPDRACHTEN_progGev\\order-processing-members\\OrderProcessingMembersBL\\OrderProcessingMembersBL.csproj": {
+                "projectPath": "C:\\Users\\Kelly\\OPDRACHTEN_progGev\\order-processing-members\\OrderProcessingMembersBL\\OrderProcessingMembersBL.csproj"
               }
             }
           }

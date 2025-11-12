@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\linx\\Documents\\GITHUB\\FirstSegment\\order-processing-members\\OrderProcessingMembersBL\\OrderProcessingMembersBL.csproj": {}
+    "C:\\Users\\Kelly\\OPDRACHTEN_progGev\\order-processing-members\\OrderProcessingMembersBL\\OrderProcessingMembersBL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\linx\\Documents\\GITHUB\\FirstSegment\\order-processing-members\\OrderProcessingMembersBL\\OrderProcessingMembersBL.csproj": {
+    "C:\\Users\\Kelly\\OPDRACHTEN_progGev\\order-processing-members\\OrderProcessingMembersBL\\OrderProcessingMembersBL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\linx\\Documents\\GITHUB\\FirstSegment\\order-processing-members\\OrderProcessingMembersBL\\OrderProcessingMembersBL.csproj",
+        "projectUniqueName": "C:\\Users\\Kelly\\OPDRACHTEN_progGev\\order-processing-members\\OrderProcessingMembersBL\\OrderProcessingMembersBL.csproj",
         "projectName": "OrderProcessingMembersBL",
-        "projectPath": "C:\\Users\\linx\\Documents\\GITHUB\\FirstSegment\\order-processing-members\\OrderProcessingMembersBL\\OrderProcessingMembersBL.csproj",
-        "packagesPath": "C:\\Users\\linx\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\linx\\Documents\\GITHUB\\FirstSegment\\order-processing-members\\OrderProcessingMembersBL\\obj\\",
+        "projectPath": "C:\\Users\\Kelly\\OPDRACHTEN_progGev\\order-processing-members\\OrderProcessingMembersBL\\OrderProcessingMembersBL.csproj",
+        "packagesPath": "C:\\Users\\Kelly\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kelly\\OPDRACHTEN_progGev\\order-processing-members\\OrderProcessingMembersBL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "S:\\SOFTWARE\\Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\linx\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Kelly\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

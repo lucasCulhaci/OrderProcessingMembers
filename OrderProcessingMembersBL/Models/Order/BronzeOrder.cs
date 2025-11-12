@@ -10,22 +10,17 @@ using System.Threading.Tasks;
 namespace OrderProcessingMembersBL.Models.Status
 {
     // IStatus is used to group every type of status, the Interface itself doesn't contain any logic
-    public class SilverStatus: StandardStatus, IWelkomstpakket, INaamplaat, IAvondmaal
+    public class BronzeOrder : StandardOrder, INameTag, IDinner
     {
 
         public override Levering TypeLevering()
         {
-            return Levering.Express;
+            return Levering.Standard;
         }
 
         public override decimal BerekenKost(decimal kost)
         {
-            return kost * 2;
-        }
-
-        public string Welkomstpakket()
-        {
-            return "Welkomstpakket!";
+            return kost + 100;
         }
 
         public string Naamplaat(string naam)
@@ -37,5 +32,6 @@ namespace OrderProcessingMembersBL.Models.Status
         {
             return "Avondmaal!";
         }
+
     }
 }

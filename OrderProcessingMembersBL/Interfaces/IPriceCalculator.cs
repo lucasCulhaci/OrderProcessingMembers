@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace OrderProcessingMembersBL.Interfaces
 {
-    public interface IPrijs
+    public interface iPriceCalculator
     {
-        decimal BerekenKost(decimal kost);
     }
 }

@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace BL.Interfaces
 {
-    public interface ILevering
+    public interface IDelivery
     {
         Levering TypeLevering();
     }

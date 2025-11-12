@@ -10,8 +10,8 @@ namespace OrderProcessingMembersBL.Manager
 {
     public class OrderProcessingMembersBeheerder
     {
-        private ILidRepositoryMemory _repo;
-        public OrderProcessingMembersBeheerder(ILidRepositoryMemory repo)
+        private IOrderManagerRepository _repo;
+        public OrderProcessingMembersBeheerder(IOrderManagerRepository repo)
         {
             _repo = repo;
         }

@@ -10,7 +10,7 @@ namespace OrderProcessingMembersUtils
 {
     public static class OrderProcessingMembersFactory
     {
-        public static ILidRepositoryMemory GetLidRepositoryMemory() 
+        public static IOrderManagerRepository GetLidRepositoryMemory() 
         {
             return new LidRepositoryMemory();
         }

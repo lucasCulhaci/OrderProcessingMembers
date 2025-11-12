@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OrderProcessingMembersBL.Interfaces
 {
-    public interface INaamplaat
+    public interface INameTag
     {
         string Naamplaat(string naam);
     }
